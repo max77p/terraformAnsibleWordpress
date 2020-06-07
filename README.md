@@ -1,2 +1,2 @@
-# Launch wordpress site using terraform and ansible
+# Launch wordpress site using terraform and ansible on AWS
 
